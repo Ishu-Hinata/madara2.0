@@ -55,20 +55,20 @@ pm_about_admin_text: |
   Lets set a welcome message to welcome new users coming to your group.
   Send `/setwelcome [message]` to set a welcome message!
 pm_about_notes_text: |
-  *✺ Setting up notes ✺*
+  *❛☉❟ Setting up notes ❛☉❟*
 
-  ✪ You can save message/media/audio or anything as notes to get a note simply use # at the beginning of a word
-  ✪ You can also set buttons for notes and filters (refer help menu)
+  🎴 You can save message/media/audio or anything as notes to get a note simply use # at the beginning of a word
+  🍃 You can also set buttons for notes and filters (refer help menu)
 pm_about_support_text: |
-  *✺ Madara Robot support chats ✺*
+  *❛☉❟ Madara Robot support chats ❛☉❟*
 
   Join My Support Group/Channel for see or report a problem on Madara.
 pm_about_credit_text: |
-  *✺ Credis for Madara ✺*
+  *❛☉❟ Credis for Madara ❛☉❟*
 
   Here Developers Making And Give Inspiration For @Lord_DSP_3 who Made The Madara Robot
 pm_help_text: |
-  *✺ Click on the button bellow to get description about specifics command. ✺*
+  *❛☉❟ Click on the button bellow to get description about specifics command. ❛☉❟*
 pm_help_module_text: "Here is the help for the *{}* module :\n\n"
 
 # Group Help Text
@@ -88,13 +88,13 @@ group_settings_text: "Click here to get this chat's settings, as well as yours."
 group_settings_button: "Settings"
 
 # PM Button
-add_bot_to_group_button: "🎴🍃Add Me To Your Group🍃🎴"
-support_chat_link_button: "Support"
-updates_channel_link_button: "Update"
+add_bot_to_group_button: "🎴🍃 Summon Me To Your group 🍃🎴"
+support_chat_link_button: "🀄Support🀄"
+updates_channel_link_button: "🎋Update🎋"
 notes_button: "Notes"
 help_button: "Get Help"
 back_button: "Go back"
-about_button: "About Madara Robot"
+about_button: "🩸About Madara🩸"
 inline_button: "Try inline!​​"
 
 # MODULES

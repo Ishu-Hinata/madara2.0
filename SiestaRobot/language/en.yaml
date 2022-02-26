@@ -14,7 +14,7 @@ pm_start_text: |
 
   ┏━━━━━━𖣘❘༻❛☉❟༺❘𖣘━━━━━━┓
   ❛☉❟ *Server Uptime :* `{}`
-  ❛☉❟ `{}` *users, across* `{}` *chats.*
+  ❛☉❟ `{}`30 *users, across* `{}`0 *chats.*
   ┃🀄Music alliance - @UchihaClan_MusicBOT
   ┗━━━━━━❘༻🩸❛☉❟🩸༺❘━━━━━━┛
   ┏━━━━━━𖣘❘༻🎴 ❟❛❟🎴༺❘𖣘━━━━━━━━━━━━┓
@@ -60,13 +60,13 @@ pm_about_notes_text: |
   ✪ You can save message/media/audio or anything as notes to get a note simply use # at the beginning of a word
   ✪ You can also set buttons for notes and filters (refer help menu)
 pm_about_support_text: |
-  *✺ Siesta Robot support chats ✺*
+  *✺ Madara Robot support chats ✺*
 
-  Join My Support Group/Channel for see or report a problem on Siesta.
+  Join My Support Group/Channel for see or report a problem on Madara.
 pm_about_credit_text: |
-  *✺ Credis for Siesta ✺*
+  *✺ Credis for Madara ✺*
 
-  Here Developers Making And Give Inspiration For Made The Siesta Robot
+  Here Developers Making And Give Inspiration For @Lord_DSP_3 who Made The Madara Robot
 pm_help_text: |
   *✺ Click on the button bellow to get description about specifics command. ✺*
 pm_help_module_text: "Here is the help for the *{}* module :\n\n"
@@ -88,14 +88,14 @@ group_settings_text: "Click here to get this chat's settings, as well as yours."
 group_settings_button: "Settings"
 
 # PM Button
-add_bot_to_group_button: "♕ Add Me To Your Group ♕"
+add_bot_to_group_button: "🎴🍃Add Me To Your Group🍃🎴"
 support_chat_link_button: "Support"
 updates_channel_link_button: "Update"
 notes_button: "Notes"
 source_button: "Source Code"
 help_button: "Get Help"
 back_button: "Go back"
-about_button: "About Siesta Robot"
+about_button: "About Madara Robot"
 inline_button: "Try inline!​​"
 
 # MODULES
